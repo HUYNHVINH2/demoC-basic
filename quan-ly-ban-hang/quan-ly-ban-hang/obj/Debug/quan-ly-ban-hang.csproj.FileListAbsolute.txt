@@ -1,0 +1,12 @@
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\bin\Debug\quan-ly-ban-hang.exe.config
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\bin\Debug\quan-ly-ban-hang.exe
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\bin\Debug\quan-ly-ban-hang.pdb
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan-ly-ban-hang.csprojAssemblyReference.cache
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan_ly_ban_hang.Form1.resources
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan_ly_ban_hang.Properties.Resources.resources
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan-ly-ban-hang.csproj.GenerateResource.cache
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan-ly-ban-hang.csproj.CoreCompileInputs.cache
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan-ly-ban-hang.exe
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan-ly-ban-hang.pdb
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan_ly_ban_hang.Form2.resources
+D:\He QTCSDL new\quan-ly-ban-hang\quan-ly-ban-hang\obj\Debug\quan_ly_ban_hang.Form3.resources
